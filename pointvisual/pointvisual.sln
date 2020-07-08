@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pointvisual", "pointvisual\pointvisual.csproj", "{60C9879C-99D4-4B8A-BC99-774F64524064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pointvisual_v2", "pointvisual_v2\pointvisual_v2.csproj", "{0FFBE6FA-7F88-416D-A10A-431702B2BD66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "heatmaptester", "heatmaptester\heatmaptester.csproj", "{CFCA09D2-ABF6-4DED-9CB5-6C990BF9D269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heatmap Recorder", "Heatmap Recorder\Heatmap Recorder.csproj", "{242FF4FE-BD9A-4915-B24E-DE476F1D8552}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60C9879C-99D4-4B8A-BC99-774F64524064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C9879C-99D4-4B8A-BC99-774F64524064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C9879C-99D4-4B8A-BC99-774F64524064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C9879C-99D4-4B8A-BC99-774F64524064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FFBE6FA-7F88-416D-A10A-431702B2BD66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFBE6FA-7F88-416D-A10A-431702B2BD66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFBE6FA-7F88-416D-A10A-431702B2BD66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFBE6FA-7F88-416D-A10A-431702B2BD66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFCA09D2-ABF6-4DED-9CB5-6C990BF9D269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFCA09D2-ABF6-4DED-9CB5-6C990BF9D269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFCA09D2-ABF6-4DED-9CB5-6C990BF9D269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFCA09D2-ABF6-4DED-9CB5-6C990BF9D269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{242FF4FE-BD9A-4915-B24E-DE476F1D8552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{242FF4FE-BD9A-4915-B24E-DE476F1D8552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{242FF4FE-BD9A-4915-B24E-DE476F1D8552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{242FF4FE-BD9A-4915-B24E-DE476F1D8552}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {303AE89D-21CC-4708-A243-40871BBD7B04}
+	EndGlobalSection
+EndGlobal

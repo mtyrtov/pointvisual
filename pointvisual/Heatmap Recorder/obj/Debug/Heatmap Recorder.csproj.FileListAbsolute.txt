@@ -1,0 +1,38 @@
+C:\Users\User\source\repos\pointvisual\Heatmap Recorder\bin\Debug\Tobii.EyeX.Client.dll
+C:\Users\User\source\repos\pointvisual\Heatmap Recorder\bin\Debug\Heatmap Recorder.exe.config
+C:\Users\User\source\repos\pointvisual\Heatmap Recorder\bin\Debug\Heatmap Recorder.exe
+C:\Users\User\source\repos\pointvisual\Heatmap Recorder\bin\Debug\Heatmap Recorder.pdb
+C:\Users\User\source\repos\pointvisual\Heatmap Recorder\bin\Debug\EyeXFramework.dll
+C:\Users\User\source\repos\pointvisual\Heatmap Recorder\bin\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\User\source\repos\pointvisual\Heatmap Recorder\obj\Debug\Heatmap Recorder.csprojAssemblyReference.cache
+C:\Users\User\source\repos\pointvisual\Heatmap Recorder\obj\Debug\Heatmap_Recorder.Form1.resources
+C:\Users\User\source\repos\pointvisual\Heatmap Recorder\obj\Debug\Heatmap_Recorder.Properties.Resources.resources
+C:\Users\User\source\repos\pointvisual\Heatmap Recorder\obj\Debug\Heatmap Recorder.csproj.GenerateResource.cache
+C:\Users\User\source\repos\pointvisual\Heatmap Recorder\obj\Debug\Heatmap Recorder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\pointvisual\Heatmap Recorder\obj\Debug\Heatmap Recorder.csproj.CopyComplete
+C:\Users\User\source\repos\pointvisual\Heatmap Recorder\obj\Debug\Heatmap Recorder.exe
+C:\Users\User\source\repos\pointvisual\Heatmap Recorder\obj\Debug\Heatmap Recorder.pdb
+C:\Users\User\source\repos\pointvisual\Heatmap Recorder\bin\Debug\CsvHelper.dll
+C:\Users\User\source\repos\pointvisual\Heatmap Recorder\bin\Debug\System.ValueTuple.dll
+C:\Users\User\source\repos\pointvisual\Heatmap Recorder\bin\Debug\CsvHelper.xml
+C:\Users\User\source\repos\pointvisual\Heatmap Recorder\bin\Debug\System.ValueTuple.xml
+C:\Users\User\source\repos\pointvisual\Heatmap Recorder\obj\Debug\Heatmap_Recorder.Viewer.resources
+e:\poleznoe\pointvisual\Heatmap Recorder\bin\Debug\Tobii.EyeX.Client.dll
+e:\poleznoe\pointvisual\Heatmap Recorder\bin\Debug\Heatmap Recorder.exe.config
+e:\poleznoe\pointvisual\Heatmap Recorder\bin\Debug\Heatmap Recorder.exe
+e:\poleznoe\pointvisual\Heatmap Recorder\bin\Debug\Heatmap Recorder.pdb
+e:\poleznoe\pointvisual\Heatmap Recorder\bin\Debug\CsvHelper.dll
+e:\poleznoe\pointvisual\Heatmap Recorder\bin\Debug\EyeXFramework.dll
+e:\poleznoe\pointvisual\Heatmap Recorder\bin\Debug\System.ValueTuple.dll
+e:\poleznoe\pointvisual\Heatmap Recorder\bin\Debug\Tobii.EyeX.Client.Net20.dll
+e:\poleznoe\pointvisual\Heatmap Recorder\bin\Debug\CsvHelper.xml
+e:\poleznoe\pointvisual\Heatmap Recorder\bin\Debug\System.ValueTuple.xml
+e:\poleznoe\pointvisual\Heatmap Recorder\obj\Debug\Heatmap Recorder.csprojAssemblyReference.cache
+e:\poleznoe\pointvisual\Heatmap Recorder\obj\Debug\Heatmap_Recorder.Form1.resources
+e:\poleznoe\pointvisual\Heatmap Recorder\obj\Debug\Heatmap_Recorder.Viewer.resources
+e:\poleznoe\pointvisual\Heatmap Recorder\obj\Debug\Heatmap_Recorder.Properties.Resources.resources
+e:\poleznoe\pointvisual\Heatmap Recorder\obj\Debug\Heatmap Recorder.csproj.GenerateResource.cache
+e:\poleznoe\pointvisual\Heatmap Recorder\obj\Debug\Heatmap Recorder.csproj.CoreCompileInputs.cache
+e:\poleznoe\pointvisual\Heatmap Recorder\obj\Debug\Heatmap Recorder.csproj.CopyComplete
+e:\poleznoe\pointvisual\Heatmap Recorder\obj\Debug\Heatmap Recorder.exe
+e:\poleznoe\pointvisual\Heatmap Recorder\obj\Debug\Heatmap Recorder.pdb
